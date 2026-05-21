@@ -192,6 +192,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterLogoEmphasis
+      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E1bp4jFwfxtIOkX6MMxQnO2pTn/uploaded-1779349671390-g7y0bmo6.jpg"
       columns={[
         {
           items: [
